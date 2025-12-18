@@ -1,0 +1,12 @@
+# Default owners for everything
+* @acorns-finders
+
+# Documentation
+README.md @acorns-finders
+
+# Common brand asset folders (adjust to your repo structure if needed)
+assets/** @acorns-finders
+logos/** @acorns-finders
+logo/** @acorns-finders
+palette/** @acorns-finders
+illustrations/** @acorns-finders
